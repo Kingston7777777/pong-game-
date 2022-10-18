@@ -2,6 +2,7 @@
 A pong game where 2 players can play.
 
 #How to play it
+
 The game will only work on Desktop and laptop because
 It uses desktop navigation arrow keys and
 W and S key on the keyboard.
